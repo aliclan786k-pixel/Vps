@@ -20,7 +20,7 @@ jobs:
           use-bore: 'true'
           use-actor-ssh-keys: 'true'
           ssh-server-authorized-keys: |
-            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPuBRRWPeEzGzSajoJXoZO2ERMFErvU0iDeLmYuPYK7o u0_a317@localhost
+            ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKZ4FsJrSGzKftLsTtaqC/VwMdSQH9RKZChIUwnxO0ln termux
           detached: 'true'
           wait-timeout: '18000'
 
